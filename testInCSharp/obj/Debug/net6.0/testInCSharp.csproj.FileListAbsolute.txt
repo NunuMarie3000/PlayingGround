@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/bin/Debug/net6.0/testInCSharp
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/bin/Debug/net6.0/testInCSharp.deps.json
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/bin/Debug/net6.0/testInCSharp.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/bin/Debug/net6.0/testInCSharp.dll
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/bin/Debug/net6.0/testInCSharp.pdb
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/obj/Debug/net6.0/testInCSharp.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/obj/Debug/net6.0/testInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/obj/Debug/net6.0/testInCSharp.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/obj/Debug/net6.0/testInCSharp.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/obj/Debug/net6.0/testInCSharp.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/obj/Debug/net6.0/testInCSharp.dll
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/obj/Debug/net6.0/refint/testInCSharp.dll
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/obj/Debug/net6.0/testInCSharp.pdb
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/obj/Debug/net6.0/testInCSharp.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/playing_around/testInCSharp/obj/Debug/net6.0/ref/testInCSharp.dll

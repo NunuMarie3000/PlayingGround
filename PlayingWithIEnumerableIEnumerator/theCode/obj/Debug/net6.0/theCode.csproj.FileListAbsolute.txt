@@ -1,0 +1,5 @@
+/home/nunumarie3000/projects/courses/Code401/playing_around/PlayingWithIEnumerableIEnumerator/theCode/obj/Debug/net6.0/theCode.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/playing_around/PlayingWithIEnumerableIEnumerator/theCode/obj/Debug/net6.0/theCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/playing_around/PlayingWithIEnumerableIEnumerator/theCode/obj/Debug/net6.0/theCode.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/playing_around/PlayingWithIEnumerableIEnumerator/theCode/obj/Debug/net6.0/theCode.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/playing_around/PlayingWithIEnumerableIEnumerator/theCode/obj/Debug/net6.0/theCode.csproj.CoreCompileInputs.cache
